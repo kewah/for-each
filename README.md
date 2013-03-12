@@ -5,11 +5,11 @@
 
 ## Installation
 
-    $ component install kewah/forEach
+    $ component install kewah/for-each
 
 ## API
 
-   
+
 
 ## License
 

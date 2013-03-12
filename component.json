@@ -1,6 +1,6 @@
 {
-  "name": "forEach",
-  "repo": "kewah/forEach",
+  "name": "for-each",
+  "repo": "kewah/for-each",
   "description": "Iterates an array",
   "version": "0.0.1",
   "keywords": [
