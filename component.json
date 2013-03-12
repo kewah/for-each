@@ -1,0 +1,15 @@
+{
+  "name": "forEach",
+  "repo": "kewah/forEach",
+  "description": "Iterates an array",
+  "version": "0.0.1",
+  "keywords": [
+    "forEach", "array"
+  ],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}
