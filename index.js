@@ -13,13 +13,13 @@ module.exports = function forEach(arr, fn, ctx) {
 
   if (!ctx) {
     for (i = 0; i < len; i++) {
-      if (false === fn(arr[i], i, arr)) {
+      if (false === fn(arr[i], i, arr, len)) {
         return arr;
       }
     }
   } else {
     for (i = 0; i < len; i++) {
-      if (false === fn.call(ctx, arr[i], i, arr)) {
+      if (false === fn.call(ctx, arr[i], i, arr, len)) {
         return arr;
       }
     }
